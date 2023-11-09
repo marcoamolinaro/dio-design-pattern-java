@@ -1,4 +1,4 @@
-package dio.gof;
+package dio.gof.singleton;
 
 public class Teste {
     public static void main(String[] args) {
